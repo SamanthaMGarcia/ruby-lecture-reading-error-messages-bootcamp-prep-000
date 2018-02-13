@@ -1,3 +1,3 @@
-out "hello world"
+outs "hello world"
 
 
